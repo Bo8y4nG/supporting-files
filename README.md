@@ -3,4 +3,4 @@ The “[attacthment_1.pdf](https://github.com/bbyhnu/supporting-files/blob/maste
 
 The “[attacthment_2.pdf](https://github.com/bbyhnu/supporting-files/blob/master/attacthment_2.pdf)” document contains the original name of all manually labeled images and their corresponding indices.
 
-We labeled 36 volumetric microscopy neuron images manually through image-J. The neuron segmentation ground truth datasets are available from [image label](https://drive.google.com/drive/folders/16YAaWTjSSBBPTHcQUVFnv1N8bXWTmSPy)
+We labeled 36 volumetric microscopy neuron images manually through image-J. The neuron segmentation ground truth datasets are available from [image label.](https://drive.google.com/drive/folders/16YAaWTjSSBBPTHcQUVFnv1N8bXWTmSPy)
